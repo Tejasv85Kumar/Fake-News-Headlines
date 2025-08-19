@@ -47,14 +47,14 @@ A Bollywood Actor argues inside a local train at midnight
 
 -> How to Run
 
-Install the required packages:
+- Install the required packages:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
-Run the Streamlit app:
+- Run the Streamlit app:
 
-streamlit run aFake_News_Headlines.py
+  streamlit run aFake_News_Headlines.py
 
 
 The app will open in your browser at:
