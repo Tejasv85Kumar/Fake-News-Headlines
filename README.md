@@ -43,9 +43,9 @@ The project expects a CSV file (Dataset_FNH.csv) with the following columns:
 - places
 
 Example row in the dataset:
-subjects	act_with_objects	act_with_places	objects	places
-A Bollywood Actor	riding a scooter	arguing inside	a washing machine	a local train
-▶ How to Run
+A Bollywood Actor argues inside a local train at midnight
+
+-> How to Run
 
 Install the required packages:
 
